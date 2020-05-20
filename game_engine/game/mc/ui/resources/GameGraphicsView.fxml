@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import java.net.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.canvas.Canvas?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<Pane fx:id="root" xmlns:fx="http://javafx.com/fxml/1" styleClass="holder"  fx:controller="game.mc.ui.GameGraphicsController">
+  <stylesheets>
+    <URL value="@gamegraphicsview.css"/>
+  </stylesheets>
+  <Canvas fx:id="gameLayer" styleClass="mainFxmlClass">
+  </Canvas>
+  <Canvas fx:id="bgLayer" styleClass="mainFxmlClass">
+  </Canvas>
+</Pane>

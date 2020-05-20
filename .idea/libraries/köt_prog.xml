@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="köt_prog">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/production/köt_prog.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
